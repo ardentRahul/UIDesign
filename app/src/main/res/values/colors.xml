@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3CB371</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#3CB371</color>
+    <color name="grey">#DCDCDC</color>
+    <color name="electricBlue">#0892d0</color>
+    <color name="lightGrey">#DCDCDC</color>
+
+
+    <color name="bottomNavigationCheckedState">#3CB371</color>
+    <color name="bottomNavigationPressedState">#3CB371</color>
+    <color name="bottomNavigationEnabledState">#3CB371</color>
+    <color name="bottomNavigationIdealState">#95A5A6</color>
+    <color name="black">#000000</color>
+</resources>

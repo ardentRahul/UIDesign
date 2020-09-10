@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">UI Design</string>
+    <string name="title_home">Home</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_leaderboard">Leaderboard</string>
+    <string name="title_explore">Explore</string>
+    <string name="looking_for">Looking for</string>
+    <string name="learn">Learn with RNR</string>
+    <string name="startNow">Start Now →</string>
+    <string name="welcomeText">Welcome to LEARNR</string>
+    <string name="subTitle">The app that let\'s you learn new things in a</string>
+    <string name="subTitle2">better way.</string>
+    <string name="learnWith"><![CDATA[〈 \u0020 Learn with RNR]]></string>
+    <string name="basics"><![CDATA[Learn the basics of investment & how to start with your first investment.]]></string>
+    <string name="whyInvest"><![CDATA[〈 \u0020 Why Invest?]]></string>
+    <string name="investSubTitle">Why you should invest in stock market?</string>
+    <string name="stockMarket">Owning stock means owning a piece of a company.\n
+    Invested funds are working for you 24/7. Invested money can grow much faster than cash in a savings account.</string>
+    <string name="secondName">Sharang</string>
+    <string name="firstName">Divya</string>
+    <string name="thirdName">Abhijit</string>
+    <string name="pointsSecond">1700 Points</string>
+    <string name="pointsFirst">2000 Points</string>
+    <string name="pointsThird">1600 Points</string>
+</resources>
